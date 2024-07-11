@@ -36,7 +36,7 @@ const ReferralModal = ({ open, onClose }) => {
     validationSchema: validationSchema,
     onSubmit: async (values) => {
       try {
-        const response = await fetch('https://accredian-backend-task-vopu.onrender.com/referrals', {
+        const response = await fetch('https://accredian-backend-task-odow.onrender.com/referrals', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
