@@ -1,0 +1,26 @@
+/* HeroSection.css */
+
+.hero-container {
+    text-align: center;
+    margin-top: 600px;
+    margin-left: 620px;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem; /* Adjust font size as needed */
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 600px;
+  }
+  
+  .hero-description {
+    font-size: 1.2rem; /* Adjust font size as needed */
+    margin-bottom: 30px;
+    margin-top: 600px;
+  }
+  
+  .hero-button {
+    padding: 12px 24px; /* Adjust padding as needed */
+    font-size: 1rem; /* Adjust font size as needed */
+  }
+  
